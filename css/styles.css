@@ -1,0 +1,30 @@
+h1 {
+    text-align:center;
+    background-color: #ffcc99;
+    margin-top: 0;
+    width:100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+}
+
+#sidebar {
+  background-color: #53c653;
+  float: left;
+  width: 150px;
+  padding-bottom: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 15px;
+}
+
+.container {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  text-align:center;
+}
+
+ol {
+  text-align: center;
+}
